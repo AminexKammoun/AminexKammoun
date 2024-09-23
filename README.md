@@ -1,4 +1,4 @@
-👋 Hi, I’m @AminexKammoun
+👋 Hi, I’m @AmineKammoun
 
 👀 I’m interested in QA automation, continuous integration, and improving software quality through automated testing
 
